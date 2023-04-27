@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'www.linkedin.com/in/ricky-price-89b3b2118/',
+    linkedin: '',
     twitter: '',
     mastodon: '',
     facebook: '',
